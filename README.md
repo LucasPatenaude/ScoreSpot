@@ -6,4 +6,4 @@
 
 ## What Needs to be Done?
 
-- [ ] test
+- [ ] Add users table in postgres
