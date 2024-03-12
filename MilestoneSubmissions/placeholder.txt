@@ -1,0 +1,5 @@
+This file is here so the folder will upload to GitHub.
+
+Git does not upload empty directories
+
+Please delete when some other data has been added to this folder.
