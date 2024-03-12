@@ -1,0 +1,19 @@
+/* Styling to center login page items */
+.login-page {
+    height: 50%;
+    display: flex;
+    justify-content: center; /* Center items horizontally */
+    align-items: center; /* Center items vertically */
+}
+
+.form-container {
+    width: 40%;
+}
+
+/* Styling to center register page items */
+.register-page {
+    height: 50%;
+    display: flex;
+    justify-content: center; /* Center items horizontally */
+    align-items: center; /* Center items vertically */
+}
