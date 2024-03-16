@@ -4,7 +4,8 @@
 
 ## What is this Program?
 
-This program will hook into a football (soccer) stats API and display the data back to the user 
+This program will hook into the [Football (Soccer) Stats API](https://www.football-data.org)
+ and display the data back to the user 
 
 ## What Features Do We Want to Add?
 
