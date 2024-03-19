@@ -11,6 +11,7 @@ This program will hook into the [Football (Soccer) Stats API](https://www.footba
 
 1. Display League Standings
 2. Display leading goals scorers?
+3. Create Club Pages
 
 ## Who's Doing What
 
