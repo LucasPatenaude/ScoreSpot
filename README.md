@@ -9,7 +9,8 @@ This program will hook into the [Football (Soccer) Stats API](https://www.footba
 
 ## What Features Do We Want to Add?
 
-1. ?Display leading goals scorers?
+1. Display League Standings
+2. Display leading goals scorers?
 
 ## Who's Doing What
 
