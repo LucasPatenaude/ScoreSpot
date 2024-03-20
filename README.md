@@ -6,7 +6,7 @@
 
 ⭐️ If you want the container to have the name ScoreSpot run: ⭐️
 
-`docker-compose -p ScoreSpot up` 
+`docker-compose -p scorespot up` 
 
 ## What is this Program?
 
