@@ -1,6 +1,12 @@
 # Soccer (Football) API Project
 
-⭐️ Make sure to run the command `cd projectSourceCode` before running `docker-compose up -d` ⭐️
+⚠️ Make sure to run the command `cd projectSourceCode` before running `docker-compose up -d` ⚠️
+
+---
+
+⭐️ If you want the container to have the name ScoreSpot run: ⭐️
+
+`docker-compose -p ScoreSpot up` 
 
 ## What is this Program?
 
